@@ -24,7 +24,7 @@ Fast food creations are coming out too fast to keep track of but luckily Michael
 | 84.5    | Culver’s Wisconsin Big Cheese Pub Burger                                    | [72](episodes/72) | July 4th, 2022       |
 | 82.5    | Chipotle 21 Pilots Burrito                                                  | [42](episodes/42) | May 25th, 2021       |
 | 82      | KFC Nashville Hot Chicken & Waffles                                         | [4](episodes/4)   | December 10th, 2019  |
-| 78.5    | Face Jame Pilot                                                             | [1](episodes/1)   | November 12th, 2019  |
+| 78.5    | Face Jam Pilot                                                              | [1](episodes/1)   | November 12th, 2019  |
 | 78.5    | Sonic Double Stack Cheeseburger & Reese's Overload Blast                    | [11](episodes/11) | March 17th, 2020     |
 | 78.5    | Wendy's Pretzel Bacon Pub Cheeseburger & Chicken Sandwich                   | [25](episodes/25) | September 29th, 2020 |
 | 78.1    | Little Caesars Cheeser Cheeser Pizza                                        | [43](episodes/43) | June 8th, 2021       |
